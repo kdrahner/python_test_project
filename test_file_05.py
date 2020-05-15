@@ -1,5 +1,5 @@
 
-#### KDR edited this on the remote in the branch: new_develop to test the git fetch, diff, and pull 
+#### KDR edited this on the remote in the branch: NEW_DEVELOP to test the git fetch, diff, and pull 
 #### -*- coding: utf-8 -*-
 ####
 #### Created on Thu Apr 23 15:02:41 2020
